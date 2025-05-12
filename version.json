@@ -1,0 +1,5 @@
+{
+  "latestVersion": 20250512, 
+  "updateUrl": "https://github.com/你的用户名/你的仓库名/blob/main/更新日志.md", 
+  "releaseNotes": "重要更新：修复了无法启动的问题。\n新增了自动截图功能。"
+}
